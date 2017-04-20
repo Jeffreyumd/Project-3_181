@@ -1,0 +1,20 @@
+Tasks for Project 3
+Jake – Make the final boss dope
+Luke, Justin, Jeff, create three new enemies each must be dank and include sounds
+
+New enemies:
+-	Sanic – easy walking enemy
+-	Rainbow Frog – stationary – hopping?
+-	Weed – flying enemy
+-	Wall-E – leaves mountain dew/Dorito bombs
+-	Illuminati symbol – stationary – shoots shit from eye
+-	Doge - easy waking enemy
+-	Doge snake
+-	Dat boi – walking enemy
+-	Squidward
+-	Thomas the tank engine
+Other Shit
+-	Sunglasses powerup
+-	Obey hat power up
+-	GTA style death
+-	Use mlg soundboard for random sounds
