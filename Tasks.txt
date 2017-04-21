@@ -2,6 +2,7 @@ Tasks for Project 3
 Jake – Make the final boss dope
 Luke, Justin, Jeff, create three new enemies each must be dank and include sounds
 
+note - edit random fly class *** make sure we have at least one change per enemy class
 New enemies:
 -	Sanic – easy walking enemy
 -	Rainbow Frog – stationary – hopping?
